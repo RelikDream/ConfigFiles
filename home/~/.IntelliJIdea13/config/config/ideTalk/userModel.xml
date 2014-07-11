@@ -1,0 +1,26 @@
+<users>
+  <myUsers class="set">
+    <user>
+      <myName>benjaminrousseau</myName>
+      <myGroup>General</myGroup>
+      <myDisplayName>benjaminrousseau</myDisplayName>
+      <myCanAccessMyFiles>false</myCanAccessMyFiles>
+      <myTransportCode>P2P</myTransportCode>
+    </user>
+    <user>
+      <myName>mael</myName>
+      <myGroup>General</myGroup>
+      <myDisplayName>mael</myDisplayName>
+      <myCanAccessMyFiles>false</myCanAccessMyFiles>
+      <myTransportCode>P2P</myTransportCode>
+    </user>
+    <user>
+      <myName>maxence</myName>
+      <myGroup>General</myGroup>
+      <myDisplayName>maxence</myDisplayName>
+      <myCanAccessMyFiles>false</myCanAccessMyFiles>
+      <myTransportCode>P2P</myTransportCode>
+    </user>
+  </myUsers>
+  <myGroups class="set"/>
+</users>

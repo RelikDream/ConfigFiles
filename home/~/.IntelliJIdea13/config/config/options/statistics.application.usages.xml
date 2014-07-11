@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id="Zen" values="Native,Properties,HTML,JSHint,IDEA_MODULE,Gitignore file,JSON,CSS,JavaScript,XML,JAVA,Bash,Ruby,ARCHIVE,Markdown,SCSS,Images,YAML,LESS,PLAIN_TEXT,SWF,UNKNOWN" />
+      <project id="TestSecurity" values="JSP,UNKNOWN,IDEA_MODULE,XML,JAVA,HTML" />
+      <project id="test" values="UNKNOWN" />
+      <project id="Pour maël" values="XML,JavaScript,IDEA_MODULE,HTML,UNKNOWN" />
+      <project id="ZenAPPGAE" values="IDEA_MODULE,HTML,JAVA,JSP,XML,UNKNOWN,Properties" />
+      <project id="ZenAPP" values="UNKNOWN,ARCHIVE,XML,IDEA_MODULE" />
+      <project id="ZenApp" values="JSON,CSS,UNKNOWN,IDEA_MODULE,SQL,JavaScript,PLAIN_TEXT,Properties,Images,Eclipse,XML,HTML,Native,JAVA" />
+      <project id="zoom" values="Properties,PLAIN_TEXT,JSON,HTML,Images,JavaScript,XML,CSS,JAVA,IDEA_MODULE,UNKNOWN" />
+      <project id="GAE Project Template" values="UNKNOWN,XML,IDEA_MODULE" />
+      <project id="First shot" values="JavaScript,YAML,SCSS,IDEA_MODULE,CSS,LESS,JSON,UNKNOWN,Images,XML,HTML,PLAIN_TEXT" />
+      <project id="untitled1" values="XML,UNKNOWN,HTML,JAVA,JSP,IDEA_MODULE" />
+      <project id="ZenAppGae" values="PLAIN_TEXT,XML,UNKNOWN,IDEA_MODULE" />
+      <project id="Maquette" values="HTML,SCSS,IDEA_MODULE,JavaScript,LESS,XML,Images,CSS,UNKNOWN" />
+      <project id="Test" values="HTML,XML,UNKNOWN,CSS,Images,IDEA_MODULE,JavaScript" />
+      <project id="TestNeo4j" values="XML,JAVA,PLAIN_TEXT,UNKNOWN,HTML,IDEA_MODULE" />
+      <project id="zencontact-start" values="JAVA,XML,ARCHIVE,CSS,Properties,Eclipse,IDEA_MODULE,Images,UNKNOWN,HTML,JSP" />
+      <project id="continuous-materials" values="XML,Gitignore file,Properties,JavaScript,Markdown,IDEA_MODULE,PLAIN_TEXT,JAVA,Groovy,JSON,UNKNOWN" />
+    </group>
+    <group name="frameworks">
+      <project id="untitled1" values="Spring,web" />
+      <project id="ZenAppGae" values="web,google-app-engine" />
+      <project id="Zen" values="web,Spring" />
+      <project id="TestSecurity" values="Spring,google-app-engine,web" />
+      <project id="ZenAPPGAE" values="Spring,google-app-engine,web" />
+      <project id="ZenApp" values="web" />
+      <project id="ZenAPP" values="google-app-engine,Spring" />
+      <project id="TestNeo4j" values="Spring,web" />
+      <project id="zoom" values="Spring,web" />
+      <project id="zencontact-start" values="google-app-engine" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="Zen" values="DEFAULT" />
+      <project id="TestSecurity" values="DEFAULT" />
+      <project id="test" values="DEFAULT" />
+      <project id="Pour maël" values="DEFAULT" />
+      <project id="ZenAPPGAE" values="DEFAULT" />
+      <project id="ZenAPP" values="DEFAULT" />
+      <project id="ZenApp" values="DEFAULT" />
+      <project id="zoom" values="DEFAULT" />
+      <project id="GAE Project Template" values="DEFAULT" />
+      <project id="First shot" values="DEFAULT" />
+      <project id="untitled1" values="DEFAULT" />
+      <project id="ZenAppGae" values="DEFAULT" />
+      <project id="Maquette" values="DEFAULT" />
+      <project id="Test" values="DEFAULT" />
+      <project id="TestNeo4j" values="DEFAULT" />
+      <project id="zencontact-start" values="DEFAULT" />
+      <project id="continuous-materials" values="DEFAULT" />
+    </group>
+    <group name="language-level">
+      <project id="Zen" values="JDK_1_7,JDK_1_6" />
+      <project id="TestSecurity" values="JDK_1_6" />
+      <project id="test" values="JDK_1_6" />
+      <project id="Pour maël" values="JDK_1_6" />
+      <project id="ZenAPPGAE" values="JDK_1_6" />
+      <project id="ZenAPP" values="JDK_1_6" />
+      <project id="ZenApp" values="JDK_1_6,JDK_1_7" />
+      <project id="zoom" values="JDK_1_6,JDK_1_7" />
+      <project id="GAE Project Template" values="JDK_1_6" />
+      <project id="First shot" values="JDK_1_6" />
+      <project id="untitled1" values="JDK_1_6" />
+      <project id="ZenAppGae" values="JDK_1_6" />
+      <project id="Maquette" values="JDK_1_6" />
+      <project id="Test" values="JDK_1_6" />
+      <project id="TestNeo4j" values="JDK_1_8,JDK_1_6" />
+      <project id="zencontact-start" values="JDK_1_6" />
+      <project id="continuous-materials" values="JDK_1_8" />
+    </group>
+    <group name="vcs">
+      <project id="ZenAppGae" values="Git" />
+      <project id="Zen" values="Git" />
+      <project id="ZenApp" values="Git" />
+      <project id="zoom" values="Git" />
+      <project id="continuous-materials" values="Git" />
+      <project id="First shot" values="Git" />
+    </group>
+    <group name="libraries">
+      <project id="untitled1" values="spring-mvc,spring,spring-security" />
+      <project id="ZenAppGae" values="BeanValidation" />
+      <project id="Zen" values="spring-mvc,TransactionJavaee,spring-security,JAX-RS,BeanValidation,javaScript,spring,CDI" />
+      <project id="TestSecurity" values="spring-security,spring-mvc,spring" />
+      <project id="ZenAPPGAE" values="spring-security,spring,spring-mvc" />
+      <project id="ZenApp" values="spring-mvc,BeanValidation,hibernate,spring,spring-security,TransactionJavaee" />
+      <project id="ZenAPP" values="spring-security,spring,spring-mvc" />
+      <project id="TestNeo4j" values="WebSocket,spring,EJB,spring-mvc" />
+      <project id="zoom" values="spring-security,spring-mvc,spring" />
+      <project id="zencontact-start" values="spring-mvc,spring" />
+      <project id="continuous-materials" values="spring-integration,spring,CDI" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Zen" values="JUnit,BashConfigurationType" />
+    </group>
+    <group name="spring">
+      <project id="Zen" values="facet_xmlContext" />
+      <project id="ZenAPP" values="facet_xmlContext" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="untitled1" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="ZenAppGae" values="GoogleAppEngineDevServer" />
+      <project id="Zen" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,JUnit,MavenRunConfiguration" />
+      <project id="TestSecurity" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="ZenAPPGAE" values="GoogleAppEngineDevServer,MavenRunConfiguration,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="ZenAPP" values="GoogleAppEngineDevServer" />
+      <project id="TestNeo4j" values="JUnit,MavenRunConfiguration,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="zoom" values="MavenRunConfiguration" />
+      <project id="continuous-materials" values="Application" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="Zen" values="Directory,Project,Project" />
+      <project id="TestSecurity" values="Project,Project" />
+      <project id="test" values="Project,Project" />
+      <project id="Pour maël" values="Project,Project" />
+      <project id="ZenAPPGAE" values="Project,Project" />
+      <project id="ZenAPP" values="Project,Project" />
+      <project id="ZenApp" values="Project,Project" />
+      <project id="zoom" values="Project,Project" />
+      <project id="GAE Project Template" values="Project,Project" />
+      <project id="First shot" values="Project,Project" />
+      <project id="untitled1" values="Project,Project" />
+      <project id="ZenAppGae" values="Project,Project" />
+      <project id="Maquette" values="Project,Project" />
+      <project id="Test" values="Project,Project" />
+      <project id="TestNeo4j" values="Project,Project" />
+      <project id="zencontact-start" values="Project,Project" />
+      <project id="continuous-materials" values="Project,Project" />
+    </group>
+    <group name="module type">
+      <project id="Zen" values="JAVA_MODULE" />
+      <project id="TestSecurity" values="JAVA_MODULE" />
+      <project id="Pour maël" values="WEB_MODULE" />
+      <project id="ZenAPPGAE" values="JAVA_MODULE" />
+      <project id="ZenAPP" values="JAVA_MODULE" />
+      <project id="ZenApp" values="JAVA_MODULE" />
+      <project id="zoom" values="JAVA_MODULE" />
+      <project id="GAE Project Template" values="JAVA_MODULE" />
+      <project id="First shot" values="WEB_MODULE" />
+      <project id="untitled1" values="JAVA_MODULE" />
+      <project id="ZenAppGae" values="JAVA_MODULE" />
+      <project id="Maquette" values="JAVA_MODULE,WEB_MODULE" />
+      <project id="Test" values="WEB_MODULE" />
+      <project id="TestNeo4j" values="JAVA_MODULE" />
+      <project id="zencontact-start" values="JAVA_MODULE" />
+      <project id="continuous-materials" values="JAVA_MODULE" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="21" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="9" />
+      <entry feature="CreateFile.CreateSpringIntegrationConfigAction" count="1" />
+      <entry feature="CreateFile.CreateSpringSecurityConfigAction" count="1" />
+      <entry feature="CreateFile.CreateWebflowConfigAction" count="1" />
+      <entry feature="CreateFile.CreateWebflowFileAction" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="5" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="20" />
+      <entry feature="execute.Application.Debug" count="18" />
+      <entry feature="execute.Application.Run" count="6" />
+      <entry feature="execute.BashConfigurationType.Run" count="44" />
+      <entry feature="execute.GoogleAppEngineDevServer.Coverage" count="3" />
+      <entry feature="execute.GoogleAppEngineDevServer.Debug" count="42" />
+      <entry feature="execute.GoogleAppEngineDevServer.Run" count="151" />
+      <entry feature="execute.JUnit.Debug" count="49" />
+      <entry feature="execute.JUnit.Run" count="159" />
+      <entry feature="execute.MavenRunConfiguration.Debug" count="261" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="384" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Compass_Support" count="1" />
+      <entry feature="ide.settings.Copyright_Profiles" count="3" />
+      <entry feature="ide.settings.Editor" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.General" count="4" />
+      <entry feature="ide.settings.Maven" count="1" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="spring.CreateElementQuickFix.CreateNewBean" count="1" />
+      <entry feature="spring.MVCRelatedFilesProvider.fromCode" count="1" />
+      <entry feature="spring.SpringChangeActiveProfiles" count="8" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="4" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="145" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="1" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="5" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="2" />
+      <entry feature="uml.ShowDiagram.JAVA" count="2" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="24" />
+      <entry feature="uml.ShowDiagram.MODULES" count="1" />
+      <entry feature="uml.ShowDiagram.SPRING" count="1" />
+      <entry feature="uml.ShowDiagram.SPRING.popup" count="1" />
+    </counts>
+  </component>
+</application>
+

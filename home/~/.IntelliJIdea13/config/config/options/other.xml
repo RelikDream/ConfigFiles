@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="AppserversManager">
+    <LibraryTable>
+      <library name="AppEngine Dev 1.8.7">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.8.7/appengine-java-sdk/appengine-java-sdk-1.8.7/lib/shared/appengine-local-runtime-shared.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.8.7/appengine-java-sdk/appengine-java-sdk-1.8.7/lib/shared/jsp-api.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.8.7/appengine-java-sdk/appengine-java-sdk-1.8.7/lib/shared/servlet-api.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.8.7/appengine-java-sdk/appengine-java-sdk-1.8.7/lib/shared/el-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="AppEngine Dev 1.9.1">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/appengine-java-sdk-1.9.1/lib/shared/appengine-local-runtime-shared.jar!/" />
+          <root url="jar://$USER_HOME$/appengine-java-sdk-1.9.1/lib/shared/jsp-api.jar!/" />
+          <root url="jar://$USER_HOME$/appengine-java-sdk-1.9.1/lib/shared/servlet-api.jar!/" />
+          <root url="jar://$USER_HOME$/appengine-java-sdk-1.9.1/lib/shared/el-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="AppEngine Dev 1.9.12">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.1/appengine-java-sdk/appengine-java-sdk-1.9.1/lib/shared/appengine-local-runtime-shared.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.1/appengine-java-sdk/appengine-java-sdk-1.9.1/lib/shared/jsp-api.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.1/appengine-java-sdk/appengine-java-sdk-1.9.1/lib/shared/servlet-api.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.1/appengine-java-sdk/appengine-java-sdk-1.9.1/lib/shared/el-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="AppEngine Dev 1.9.2">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.2/appengine-java-sdk/appengine-java-sdk-1.9.2/lib/shared/appengine-local-runtime-shared.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.2/appengine-java-sdk/appengine-java-sdk-1.9.2/lib/shared/jsp-api.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.2/appengine-java-sdk/appengine-java-sdk-1.9.2/lib/shared/servlet-api.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.2/appengine-java-sdk/appengine-java-sdk-1.9.2/lib/shared/el-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="Tomcat 7.0.54">
+        <CLASSES>
+          <root url="jar:///mnt/tomcat7/lib/jsp-api.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/servlet-api.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/annotations-api.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/catalina-ant.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/catalina-ha.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/catalina-tribes.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/catalina.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/ecj-P20140317-1600.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/el-api.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/jasper-el.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/jasper.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/tomcat-api.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/tomcat-coyote.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/tomcat-dbcp.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/tomcat-jdbc.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/tomcat-util.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/tomcat7-websocket.jar!/" />
+          <root url="jar:///mnt/tomcat7/lib/websocket-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+    <ServerDK NAME="AppEngine Dev 1.9.1">
+      <option name="SOURCE_INTEGRATION_NAME" value="Google App Engine Dev Server" />
+      <DATA>
+        <sdk-path>$USER_HOME$/appengine-java-sdk-1.9.1</sdk-path>
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="AppEngine Dev 1.9.12">
+      <option name="SOURCE_INTEGRATION_NAME" value="Google App Engine Dev Server" />
+      <DATA>
+        <sdk-path>$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.1/appengine-java-sdk/appengine-java-sdk-1.9.1</sdk-path>
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="AppEngine Dev 1.9.2">
+      <option name="SOURCE_INTEGRATION_NAME" value="Google App Engine Dev Server" />
+      <DATA>
+        <sdk-path>$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.9.2/appengine-java-sdk/appengine-java-sdk-1.9.2</sdk-path>
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="AppEngine Dev 1.8.7">
+      <option name="SOURCE_INTEGRATION_NAME" value="Google App Engine Dev Server" />
+      <DATA>
+        <sdk-path>$MAVEN_REPOSITORY$/com/google/appengine/appengine-java-sdk/1.8.7/appengine-java-sdk/appengine-java-sdk-1.8.7</sdk-path>
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="Tomcat 7.0.54">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="/mnt/tomcat7" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+  </component>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_NON_JAVA" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="VALUE_LOOKUP_DELAY" value="700" />
+    <option name="DEBUGGER_TRANSPORT" value="0" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="DISABLE_JIT" value="false" />
+    <option name="HIDE_DEBUGGER_ON_PROCESS_TERMINATION" value="false" />
+    <option name="HOTSWAP_IN_BACKGROUND" value="true" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CONSTRUCTORS" value="false" />
+    <option name="SKIP_GETTERS" value="false" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="EVALUATION_DIALOG_TYPE" value="EvaluateFragment" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
+    <option name="HOTSWAP_HANG_WARNING_ENABLED" value="false" />
+    <option name="WATCH_RETURN_VALUES" value="true" />
+    <option name="AUTO_VARIABLES_MODE" value="false" />
+    <option name="SHOW_LIBRARY_STACKFRAMES" value="true" />
+    <option name="UNMUTE_ON_STOP" value="false" />
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+  </component>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="Java" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="Java" />
+  </component>
+  <component name="FindSettings">
+    <option name="SEARCH_OVERLOADED_METHODS" value="false" />
+    <option name="SEARCH_IN_LIBRARIES" value="false" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="false" />
+    <option name="FIND_DIRECTION" value="forward" />
+    <option name="FIND_ORIGIN" value="from_cursor" />
+    <option name="FIND_SCOPE" value="global" />
+    <option name="FIND_CUSTOM_SCOPE" />
+    <option name="CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="PRESERVE_CASE_REPLACE" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="COMMENTS_ONLY" value="false" />
+    <option name="STRING_LITERALS_ONLY" value="false" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
+    <option name="WITH_SUBDIRECTORIES" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/home/zenika/Documents/TestNeo4j/src/main/java/com/zenika/neo4jTest/neo4j/rest/Neo4JDBREST.java'" />
+    <option name="FILE_MASK" value="*.java" />
+    <option name="RECENT_FIND_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="delet" />
+          <item index="1" class="java.lang.String" itemvalue="readF" />
+          <item index="2" class="java.lang.String" itemvalue="Clien" />
+          <item index="3" class="java.lang.String" itemvalue="select" />
+          <item index="4" class="java.lang.String" itemvalue="autoSignUp" />
+          <item index="5" class="java.lang.String" itemvalue="connectionSignUp" />
+          <item index="6" class="java.lang.String" itemvalue="getReturnToUrlParameters" />
+          <item index="7" class="java.lang.String" itemvalue="ConnectionAdded" />
+          <item index="8" class="java.lang.String" itemvalue="getConnectionAddedRedirectUrl" />
+          <item index="9" class="java.lang.String" itemvalue="url" />
+          <item index="10" class="java.lang.String" itemvalue="ret" />
+          <item index="11" class="java.lang.String" itemvalue="test" />
+          <item index="12" class="java.lang.String" itemvalue="desc" />
+          <item index="13" class="java.lang.String" itemvalue="console" />
+          <item index="14" class="java.lang.String" itemvalue="consol" />
+          <item index="15" class="java.lang.String" itemvalue="text-" />
+          <item index="16" class="java.lang.String" itemvalue="text-right" />
+          <item index="17" class="java.lang.String" itemvalue="skil" />
+          <item index="18" class="java.lang.String" itemvalue="ng-option" />
+          <item index="19" class="java.lang.String" itemvalue="Custom" />
+          <item index="20" class="java.lang.String" itemvalue="create" />
+          <item index="21" class="java.lang.String" itemvalue="filtet" />
+          <item index="22" class="java.lang.String" itemvalue="updat" />
+          <item index="23" class="java.lang.String" itemvalue="skillDeleted" />
+          <item index="24" class="java.lang.String" itemvalue="submit" />
+          <item index="25" class="java.lang.String" itemvalue="scope.removeListSkills" />
+          <item index="26" class="java.lang.String" itemvalue="console.log" />
+          <item index="27" class="java.lang.String" itemvalue="update" />
+          <item index="28" class="java.lang.String" itemvalue="user" />
+          <item index="29" class="java.lang.String" itemvalue="75" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_REPLACE_STRINGS">
+      <value>
+        <list size="5">
+          <item index="0" class="java.lang.String" itemvalue="@ActiveProfiles({&quot;test&quot;,&quot;withoutSecurity&quot;})" />
+          <item index="1" class="java.lang.String" itemvalue="ROLE_MARKETING" />
+          <item index="2" class="java.lang.String" itemvalue="(n:Neo4JConnectionDataNode)" />
+          <item index="3" class="java.lang.String" itemvalue="input" />
+          <item index="4" class="java.lang.String" itemvalue="" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_DIR_STRINGS">
+      <value>
+        <list size="12">
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/ZenikaApp/src/main/java/com/zenika/zenapp/account/dto" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/ZenikaApp/src/test" />
+          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/ZenikaApp/src/main/resources/properties" />
+          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/Zen/src/main/webapp/dist" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/Zen/src/main/java/org/springframework/social/connect/neo4J/repository" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/Zen/src/main/java/org/springframework/social/connect/neo4J" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/Zen/src/main/java/com/zenika/zen/activity" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/Zen/src/main/java/com/zenika/zen" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/Zen/src/main/java/com/zenika/zen/" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/Zen/src/main/webapp/app" />
+          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/Zen/src/main/resources/spring" />
+          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/Documents/Git_Projects/Zen/src/main/java" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_FILE_MASKS">
+      <value>
+        <list size="9">
+          <item index="0" class="java.lang.String" itemvalue="*.properties" />
+          <item index="1" class="java.lang.String" itemvalue="*.jsp" />
+          <item index="2" class="java.lang.String" itemvalue="*.xml" />
+          <item index="3" class="java.lang.String" itemvalue="*.js" />
+          <item index="4" class="java.lang.String" itemvalue="*.as" />
+          <item index="5" class="java.lang.String" itemvalue="*.css" />
+          <item index="6" class="java.lang.String" itemvalue="*.mxml" />
+          <item index="7" class="java.lang.String" itemvalue="*.html" />
+          <item index="8" class="java.lang.String" itemvalue="*.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="GlobalAntConfiguration">
+    <filtersTableLayout />
+    <propertiesTableLayout />
+  </component>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="false" />
+    <option name="USE_HTTP_PROXY" value="false" />
+    <option name="USE_PROXY_PAC" value="false" />
+    <option name="PROXY_HOST" value="" />
+    <option name="PROXY_PORT" value="80" />
+    <option name="PROXY_AUTHENTICATION" value="false" />
+    <option name="PROXY_LOGIN" value="" />
+    <option name="PROXY_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_PROXY_PASSWORD" value="false" />
+    <option name="myGenericPasswords">
+      <map />
+    </option>
+    <option name="myGenericCancelled">
+      <set />
+    </option>
+    <option name="PROXY_EXCEPTIONS" value="" />
+    <option name="USE_PAC_URL" value="false" />
+    <option name="PAC_URL" value="" />
+  </component>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/Git_Projects/Zen" />
+        <option value="$USER_HOME$/Documents/TestNeo4j" />
+        <option value="$USER_HOME$/Documents/technozaure/30062014/continuous-materials" />
+        <option value="$USER_HOME$/Documents/Pour maël" />
+        <option value="$USER_HOME$/Documents/Git_Projects/com.zenika.cloudendpoints.guice.test" />
+        <option value="$USER_HOME$/Documents/GAE/TP/zencontact-start" />
+        <option value="$USER_HOME$/Documents/Git_Projects/GAE Project Template" />
+        <option value="$USER_HOME$/Documents/Git_Projects/ZenAppGae" />
+        <option value="$USER_HOME$/Documents/Git_Projects/zoomapptrial" />
+        <option value="$USER_HOME$/Documents/Maquette/First shot" />
+        <option value="$USER_HOME$/Documents/Git_Projects/ZenikaApp" />
+        <option value="$USER_HOME$/Documents/Git_Projects/ZenAPPGAE" />
+        <option value="$USER_HOME$/Documents/Git_Projects/untitled1" />
+        <option value="$USER_HOME$/Documents/Git_Projects/ZenAPP" />
+        <option value="$USER_HOME$/Documents/Git_Projects/untitled" />
+        <option value="$USER_HOME$/Documents/Git_Projects/TestSecurity" />
+        <option value="$USER_HOME$/Documents/Git_Projects/ZenApp" />
+        <option value="$USER_HOME$/Documents/Maquette" />
+        <option value="$USER_HOME$/IdeaProjects/Test" />
+        <option value="$USER_HOME$/IdeaProjects/test" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/Git_Projects/Zen" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Documents/Git_Projects/Zen" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="TYPE_COOK_PRESERVE_RAW_ARRAYS" value="false" />
+    <option name="TYPE_COOK_LEAVE_OBJECT_PARAMETERIZED_TYPES_RAW" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="ide.firstStartup" value="false" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+    <option name="LAST_TEMPLATE" value="Java/Maven" />
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Compiler (success)" />
+        <option value="TestRunner" />
+        <option value="VCS Commit" />
+      </set>
+    </option>
+  </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="0" />
+    </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+      <option name="EFFECT_TYPE" value="0" />
+    </pattern>
+  </component>
+  <component name="UpdatesConfigurable">
+    <option name="myPluginHosts">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myKnownUpdateChannels">
+      <value>
+        <list size="9">
+          <item index="0" class="java.lang.String" itemvalue="idea90" />
+          <item index="1" class="java.lang.String" itemvalue="IDEA10" />
+          <item index="2" class="java.lang.String" itemvalue="IDEA11" />
+          <item index="3" class="java.lang.String" itemvalue="IDEA12" />
+          <item index="4" class="java.lang.String" itemvalue="IDEA_13_EAP" />
+          <item index="5" class="java.lang.String" itemvalue="IDEA_13_1_EAP" />
+          <item index="6" class="java.lang.String" itemvalue="IDEA13" />
+          <item index="7" class="java.lang.String" itemvalue="IDEA13.1" />
+          <item index="8" class="java.lang.String" itemvalue="IDEA_14_EAP" />
+        </list>
+      </value>
+    </option>
+    <option name="myIgnoredBuildNumbers">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="CHECK_NEEDED" value="true" />
+    <option name="LAST_TIME_CHECKED" value="1404979288973" />
+    <option name="LAST_BUILD_CHECKED" value="IU-135.909" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" ASK_TO_INSTALL_SOAPUI="true" />
+  <component name="XDebuggerSettings">
+    <data-views />
+    <debuggers>
+      <debugger id="groovy_debugger">
+        <configuration />
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="ruby">
+        <configuration />
+      </debugger>
+    </debuggers>
+  </component>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SHOW_IN_TOOLBAR" value="true" />
+    <option name="SHOW_IN_MAIN_MENU" value="true" />
+    <option name="OPEN_NEW_TAB" value="false" />
+    <option name="HIGHLIGHT_RESULTS" value="true" />
+    <option name="SHOW_USAGE_VIEW" value="false" />
+    <option name="SEARCH_SCOPE">
+      <value type="PROJECT" />
+    </option>
+    <option name="MATCH_RECURSIVELY" value="false" />
+    <option name="attributes">
+      <value>
+        <option name="BACKGROUND" value="ffd578" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="contextAttributes">
+      <value>
+        <option name="BACKGROUND" value="c2ffd4" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="scrollToFirst" value="true" />
+    <option name="bUseContextAtCursor" value="true" />
+    <option name="bHighlightStartTagOnly" value="true" />
+    <option name="bAddErrorStripe" value="true" />
+  </component>
+  <component name="XSLT-Support.Configuration">
+    <option name="SHOW_LINKED_FILES" value="true" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Css" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="tapestry:parameter" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" />
+</application>
+

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.1600.900" x="968" y="385" />
+    <location key="replaceTextDialog.0.0.1600.900" x="614" y="153" />
+    <location key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.1600.900" x="164" y="96" />
+    <location key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.1600.900" x="649" y="61" />
+    <location key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.0.0.1600.900" x="739" y="310" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1600.900" x="561" y="222" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1600.900" x="519" y="198" />
+    <location key="dock-window-2.0.0.1600.900" x="164" y="96" />
+    <location key="dock-window-1.0.0.1600.900" x="164" y="96" />
+    <location key="FileDocumentManager.FileCacheConflict.0.0.1600.900" x="449" y="192" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1600.900" x="73" y="364" />
+    <location key="#Usage_Statistics.0.0.1600.900" x="503" y="285" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1600.900" x="580" y="167" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1600.900" x="566" y="330" />
+    <location key="VCS.ChangelistChooser.0.0.1600.900" x="650" y="278" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1600.900" x="600" y="280" />
+    <location key="git4idea.merge.GitMergeDialog.0.0.1600.900" x="601" y="241" />
+    <location key="MultipleFileMergeDialog.0.0.1600.900" x="497" y="300" />
+    <location key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog.0.0.1600.900" x="600" y="319" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1600.900" x="612" y="367" />
+    <location key="Maven.ArtifactSearchDialog.0.0.1600.900" x="365" y="102" />
+    <location key="#com.intellij.debugger.ui.breakpoints.EditClassFiltersDialog.0.0.1600.900" x="411" y="301" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1600.900" x="556" y="238" />
+    <location key="#com.intellij.debugger.ui.breakpoints.EditInstanceFiltersDialog.0.0.1600.900" x="611" y="301" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1600.900" x="76" y="307" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1600.900" x="521" y="309" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1600.900" x="565" y="202" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1600.900" x="665" y="71" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1600.900" x="800" y="174" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1600.900" x="540" y="211" />
+    <location key="EditParametersPopupWindow.0.0.1600.900" x="639" y="325" />
+    <location key="IdeErrosDialog.0.0.1600.900" x="344" y="264" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1600.900" x="375" y="107" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1600.900" x="559" y="128" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1600.900" x="562" y="194" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900" x="178" y="169" />
+    <location key="findTextDialog.0.0.1600.900" x="413" y="115" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1600.900" x="482" y="212" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="615" y="159" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.900" x="516" y="199" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="796" y="303" />
+    <location key="NewModule_or_Project.wizard.0.0.1600.900" x="465" y="60" />
+    <location key="OptionsEditor.0.0.1600.900" x="241" y="40" />
+    <location key="#Project_Structure.0.0.1600.900" x="195" y="40" />
+    <location key="CommitChangelistDialog2.0.0.1600.900" x="674" y="191" />
+    <location key="git4idea.push.GitPushDialog.0.0.1600.900" x="490" y="165" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1600.900" x="638" y="368" />
+    <location key="#Tomcat_Server.0.0.1600.900" x="607" y="295" />
+    <location key="ProcessPopupWindow.0.0.1600.900" x="894" y="587" />
+    <location key="#All_in_ZenApp.0.0.1600.900" x="569" y="118" />
+    <location key="#Notifications.0.0.1600.900" x="583" y="181" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1600.900" x="588" y="168" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1600.900" x="561" y="184" />
+    <location key="Github.CreateGistDialog.0.0.1600.900" x="655" y="352" />
+    <location key="RollbackChangesDialog.0.0.1600.900" x="1003" y="133" />
+    <location key="DiffWindow.0.0.1600.900" x="65" y="94" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.0.0.1600.900" x="524" y="381" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1600.900" x="702" y="165" />
+    <location key="#Appearance.0.0.1600.900" x="588" y="161" />
+    <location key="#com.intellij.debugger.ui.ExportDialog.0.0.1600.900" x="507" y="237" />
+    <location key="spring file set editor.0.0.1600.900" x="404" y="154" />
+    <location key="#com.intellij.refactoring.safeDelete.OverridingMethodsDialog.0.0.1600.900" x="585" y="167" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1600.900" x="592" y="240" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1600.900" x="589" y="148" />
+    <location key="git4idea.ui.GitResetDialog.0.0.1600.900" x="614" y="346" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1600.900" x="164" y="96" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1600.900" x="164" y="96" />
+    <location key="#Servers.0.0.1600.900" x="536" y="216" />
+    <location key="#Zen_[appengine:backends_start].0.0.1600.900" x="569" y="32" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1600.900" x="593" y="332" />
+    <location key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.1600.900" x="844" y="248" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1600.900" x="954" y="261" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1600.900" x="566" y="309" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1600.900" x="587" y="278" />
+    <location key="#com.zenika.zen.users_in_Zen.0.0.1600.900" x="545" y="100" />
+    <location key="#com.intellij.ide.util.MemberChooser.1024.0.1600.900" x="1664" y="169" />
+    <location key="FileChooserDialogImpl.1024.0.1600.900" x="1639" y="150" />
+    <location key="NewModule_or_Project.wizard.1024.0.1600.900" x="1432" y="94" />
+    <location key="WELCOME_SCREEN.1024.0.1600.900" x="512" y="386" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1024.0.1600.900" x="1314" y="100" />
+    <location key="DiffWindow.1024.0.1600.900" x="1532" y="187" />
+    <location key="RollbackChangesDialog.1024.0.1600.900" x="1634" y="171" />
+    <location key="CommitChangelistDialog2.1024.0.1600.900" x="1492" y="147" />
+    <location key="git4idea.push.GitPushDialog.1024.0.1600.900" x="1481" y="156" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.1024.0.1600.900" x="1522" y="377" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1024.0.1600.900" x="1589" y="200" />
+    <location key="scopes.0.0.1600.900" x="624" y="131" />
+    <location key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog.0.0.1600.900" x="565" y="191" />
+    <location key="#Compass_Support.0.0.1600.900" x="581" y="355" />
+    <location key="extract.method.dialog.0.0.1600.900" x="565" y="213" />
+    <location key="new project wizard.0.0.1600.900" x="460" y="90" />
+    <location key="#TestNeo4j_[tomcat7:run].0.0.1600.900" x="545" y="24" />
+    <location key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.0.1600.900" x="467" y="105" />
+    <location key="#vertX.0.0.1600.900" x="305" y="231" />
+    <location key="#Intentions.0.0.1600.900" x="415" y="100" />
+    <size key="WebDeployment.AddServerDialog.v.1.0.0.1600.900" width="420" height="241" />
+    <size key="replaceTextDialog.0.0.1600.900" width="429" height="589" />
+    <size key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.1600.900" width="1337" height="705" />
+    <size key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.1600.900" width="629" height="361" />
+    <size key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.0.0.1600.900" width="417" height="288" />
+    <size key="#com.intellij.ide.util.PackageChooserDialog.0.0.1600.900" width="526" height="450" />
+    <size key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1600.900" width="677" height="500" />
+    <size key="dock-window-2.0.0.1600.900" width="1337" height="705" />
+    <size key="dock-window-1.0.0.1600.900" width="1337" height="705" />
+    <size key="FileDocumentManager.FileCacheConflict.0.0.1600.900" width="1129" height="492" />
+    <size key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1600.900" width="1511" height="203" />
+    <size key="#Usage_Statistics.0.0.1600.900" width="650" height="326" />
+    <size key="git4idea.branch.GitSmartOperationDialog.0.0.1600.900" width="496" height="561" />
+    <size key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1600.900" width="565" height="241" />
+    <size key="VCS.ChangelistChooser.0.0.1600.900" width="356" height="346" />
+    <size key="git4idea.rebase.GitRebaseDialog.0.0.1600.900" width="471" height="336" />
+    <size key="git4idea.merge.GitMergeDialog.0.0.1600.900" width="454" height="413" />
+    <size key="MultipleFileMergeDialog.0.0.1600.900" width="609" height="524" />
+    <size key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog.0.0.1600.900" width="456" height="285" />
+    <size key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1600.900" width="431" height="174" />
+    <size key="Maven.ArtifactSearchDialog.0.0.1600.900" width="926" height="692" />
+    <size key="#com.intellij.debugger.ui.breakpoints.EditClassFiltersDialog.0.0.1600.900" width="826" height="292" />
+    <size key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1600.900" width="527" height="418" />
+    <size key="#com.intellij.debugger.ui.breakpoints.EditInstanceFiltersDialog.0.0.1600.900" width="426" height="292" />
+    <size key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1600.900" width="1512" height="282" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1600.900" width="1000" height="517" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1600.900" width="526" height="492" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1600.900" width="326" height="753" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1600.900" width="467" height="558" />
+    <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1600.900" width="669" height="494" />
+    <size key="EditParametersPopupWindow.0.0.1600.900" width="948" height="292" />
+    <size key="IdeErrosDialog.0.0.1600.900" width="969" height="368" />
+    <size key="#Browse_JetBrains_Plugins_.0.0.1600.900" width="826" height="692" />
+    <size key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1600.900" width="888" height="638" />
+    <size key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1600.900" width="526" height="507" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900" width="822" height="408" />
+    <size key="findTextDialog.0.0.1600.900" width="420" height="546" />
+    <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1600.900" width="700" height="500" />
+    <size key="FileChooserDialogImpl.0.0.1600.900" width="691" height="578" />
+    <size key="NewModule_or_Project.wizard.0.0.1600.900" width="799" height="708" />
+    <size key="OptionsEditor.0.0.1600.900" width="1226" height="860" />
+    <size key="javadoc.popup.0.0.1600.900" width="502" height="333" />
+    <size key="#Project_Structure.0.0.1600.900" width="1297" height="860" />
+    <size key="CommitChangelistDialog2.0.0.1600.900" width="689" height="640" />
+    <size key="git4idea.push.GitPushDialog.0.0.1600.900" width="677" height="565" />
+    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.1600.900" width="429" height="159" />
+    <size key="#Tomcat_Server.0.0.1600.900" width="455" height="221" />
+    <size key="ProcessPopupWindow.0.0.1600.900" width="542" height="164" />
+    <size key="#All_in_ZenApp.0.0.1600.900" width="518" height="659" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900" width="1489" height="178" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900" width="1489" height="178" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900" width="1489" height="178" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900" width="1489" height="178" />
+    <size key="#Notifications.0.0.1600.900" width="491" height="533" />
+    <size key="GridCell.Tab.1.left.0.0.1600.900" width="1489" height="261" />
+    <size key="GridCell.Tab.1.center.0.0.1600.900" width="1489" height="261" />
+    <size key="GridCell.Tab.1.right.0.0.1600.900" width="1489" height="261" />
+    <size key="GridCell.Tab.1.bottom.0.0.1600.900" width="1489" height="261" />
+    <size key="GridCell.Tab.2.left.0.0.1600.900" width="1489" height="334" />
+    <size key="GridCell.Tab.2.center.0.0.1600.900" width="1489" height="334" />
+    <size key="GridCell.Tab.2.right.0.0.1600.900" width="1489" height="334" />
+    <size key="GridCell.Tab.2.bottom.0.0.1600.900" width="1489" height="334" />
+    <size key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1600.900" width="548" height="560" />
+    <size key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1600.900" width="534" height="528" />
+    <size key="Github.CreateGistDialog.0.0.1600.900" width="375" height="197" />
+    <size key="RollbackChangesDialog.0.0.1600.900" width="428" height="576" />
+    <size key="DiffWindow.0.0.1600.900" width="1488" height="598" />
+    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.0.0.1600.900" width="661" height="142" />
+    <size key="refactoring.ChangeSignatureDialog.0.0.1600.900" width="656" height="735" />
+    <size key="#Appearance.0.0.1600.900" width="529" height="617" />
+    <size key="GridCell.Tab.3.left.0.0.1600.900" width="1489" height="276" />
+    <size key="GridCell.Tab.3.center.0.0.1600.900" width="1489" height="276" />
+    <size key="GridCell.Tab.3.right.0.0.1600.900" width="1489" height="276" />
+    <size key="GridCell.Tab.3.bottom.0.0.1600.900" width="1489" height="276" />
+    <size key="spring file set editor.0.0.1600.900" width="849" height="587" />
+    <size key="#com.intellij.refactoring.safeDelete.OverridingMethodsDialog.0.0.1600.900" width="478" height="561" />
+    <size key="git4idea.merge.GitPullDialog.0.0.1600.900" width="512" height="415" />
+    <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1600.900" width="478" height="599" />
+    <size key="git4idea.ui.GitResetDialog.0.0.1600.900" width="437" height="204" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1600.900" width="1337" height="705" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1600.900" width="1337" height="705" />
+    <size key="#Servers.0.0.1600.900" width="584" height="464" />
+    <size key="#Zen_[appengine:backends_start].0.0.1600.900" width="518" height="832" />
+    <size key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.1600.900" width="187" height="300" />
+    <size key="ReplaceDuplicatesPrompt.0.0.1600.900" width="646" height="137" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1600.900" width="534" height="281" />
+    <size key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1600.900" width="482" height="339" />
+    <size key="#com.zenika.zen.users_in_Zen.0.0.1600.900" width="567" height="696" />
+    <size key="#com.intellij.ide.util.MemberChooser.1024.0.1600.900" width="376" height="558" />
+    <size key="GridCell.Tab.0.left.1024.0.1600.900" width="1489" height="332" />
+    <size key="GridCell.Tab.0.center.1024.0.1600.900" width="1489" height="332" />
+    <size key="GridCell.Tab.0.right.1024.0.1600.900" width="1489" height="332" />
+    <size key="GridCell.Tab.0.bottom.1024.0.1600.900" width="1489" height="332" />
+    <size key="FileChooserDialogImpl.1024.0.1600.900" width="426" height="596" />
+    <size key="NewModule_or_Project.wizard.1024.0.1600.900" width="841" height="708" />
+    <size key="DiffWindow.1024.0.1600.900" width="632" height="520" />
+    <size key="RollbackChangesDialog.1024.0.1600.900" width="428" height="553" />
+    <size key="CommitChangelistDialog2.1024.0.1600.900" width="721" height="602" />
+    <size key="git4idea.push.GitPushDialog.1024.0.1600.900" width="743" height="584" />
+    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.1024.0.1600.900" width="661" height="142" />
+    <size key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1024.0.1600.900" width="526" height="495" />
+    <size key="scopes.0.0.1600.900" width="670" height="451" />
+    <size key="DebuggerActiveHint.0.0.1600.900" width="794" height="639" />
+    <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.StatementEditor.0.0.1600.900" width="1486" height="29" />
+    <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.EvaluationPanel.0.0.1600.900" width="1486" height="126" />
+    <size key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog.0.0.1600.900" width="526" height="513" />
+    <size key="#Compass_Support.0.0.1600.900" width="494" height="185" />
+    <size key="extract.method.dialog.0.0.1600.900" width="534" height="470" />
+    <size key="new project wizard.0.0.1600.900" width="736" height="716" />
+    <size key="#TestNeo4j_[tomcat7:run].0.0.1600.900" width="567" height="868" />
+    <size key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.0.1600.900" width="722" height="685" />
+    <size key="#vertX.0.0.1600.900" width="618" height="669" />
+    <size key="#Intentions.0.0.1600.900" width="1178" height="695" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="700" />
+    <extendedState key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
+    <extendedState key="dock-window-1" state="0" />
+    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="dock-window-2" state="0" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="idea.dark.laf.classname" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="evlsprt3.13" value="16" />
+    <property name="installation.uid" value="744fa9c2-6440-4913-a6b8-fae943fe3b81" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="Tests" value="Green" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/ia.js&#10;/home/zenika/ia.leek&#10;/home/zenika/Documents/TestNeo4j&#10;/home/zenika/Documents/technozaure/30062014/continuous-materials&#10;/mnt/gradle&#10;/home/zenika/Documents/technozaure&#10;/usr/local/apache-maven&#10;/home/zenika/Documents/Git_Projects/Zen&#10;/home/zenika/Documents/Git_Projects/Zen/Gruntfile.js&#10;/mnt/tomcat7&#10;/home/zenika/Téléchargements/idea-markdown.zip&#10;/home/zenika/Documents/Pour maël&#10;/home/zenika/Documents/Git_Projects/Zen/src/test/resources/spring/validation-context.xml&#10;/etc/Java&#10;/home/zenika/Documents/Git_Projects/com.zenika.cloudendpoints.guice.test&#10;/usr/lib/jvm/java-6-openjdk-amd64&#10;/home/zenika/Documents/GAE/TP/zencontact-start&#10;/home/zenika/Documents/Git_Projects/ZenAppGae/src&#10;/home/zenika/appengine-java-sdk-1.9.1&#10;/home/zenika/IdeaProjects/ZenApp&#10;/home/zenika/IdeaProjects&#10;/home/zenika/Téléchargements/Key_promoter_11324.jar&#10;/home/zenika/Documents/Git_Projects/ZenApp&#10;/var/lib/tomcat7&#10;/usr/share/tomcat7&#10;/home/zenika/Documents/Git_Projects/ZenikaApp&#10;/usr/lib/jvm/java-7-openjdk-amd64&#10;/home/zenika/Documents/Git_Projects/zoomapptrial&#10;/home/zenika/Documents/Maquette/V1/template/grayscale/index.html&#10;/home/zenika/Documents/Maquette/V1/app/app.js" />
+    <property name="last.imported.location" value="$USER_HOME$/Documents/technozaure/30062014/continuous-materials" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="FindSplitterProportion" value="0.53625953" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 7.0.54" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="AppServerDKsEditor.splitterProportion" value="0.3" />
+    <property name="PLUGIN_FILTER" value="mar&#10;Markdown&#10;ruby&#10;gem&#10;nod" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="&quot;New in 13&quot;" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="KEYMAP" value="update&#10;caret" />
+    <property name="SpringBeansModulesPanel[0]" value="0.07881773" />
+    <property name="SpringBeansModulesPanel[1]" value="0.159109" />
+    <property name="SpringBeansModulesPanel[2]" value="0.17866667" />
+    <property name="SpringBeansModulesPanel[3]" value="0.412595" />
+    <property name="SpringMvcModulesPanel[0]" value="0.13431834" />
+    <property name="SpringMvcModulesPanel[1]" value="0.15873016" />
+    <property name="SpringBeanPointerFinderRecursivePanel[0]" value="0.1369863" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.1369863" />
+    <property name="evlsprt.13" value="14555885fc5" />
+    <property name="evlsprt2.13" value="1450322b295" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.66313" />
+    <property name="eclipse.project.dir" value="$USER_HOME$/Documents/GAE/TP/zencontact-start" />
+    <property name="introduce.variable.prefer.statements" value="false" />
+    <property name="MavenModuleWizard.archetypeGroupIdKey" value="com.google.appengine.archetypes" />
+    <property name="MavenModuleWizard.archetypeArtifactIdKey" value="com.google.appengine.archetypes" />
+    <property name="MavenModuleWizard.archetypeVersionKey" value="1.9.2" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="test_tree_console_proprtion" value="0.16104612" />
+    <property name="junit_statistics_table_columnsWidth0" value="75" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="junit_statistics_table_columnsWidth1" value="75" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="junit_statistics_table_columnsWidth2" value="75" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsWidth3" value="75" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="junit_statistics_table_columnsWidth4" value="75" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsWidth5" value="75" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.3" />
+    <property name="SpringMvcController[0]" value="0.28169015" />
+    <property name="introduce.final.checkbox" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.15961692" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.1904762" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.23640662" />
+    <property name="AssociationsEditor.dividerProportion" value="0.3" />
+    <property name="LAST_INJECTED_LANGUAGE" value="RegExp" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="javascript.grunt_toolwindow_splitter" value="0.2" />
+    <property name="ColorChooser.RecentColors" value="142-39-185-255,,,41-128-185-255,,,52-152-219-255,,,175-40-219-255,,,198-41-243-255,,,188-114-243-255,,,123-89-174-255,,,244-133-130-255,,,208-120-118-255,,,241-123-111-255,,,212-116-116-255,,,212-75-88-255,,,133-133-133-255,,,194-194-194-255,,,90-90-90-255,,,132-132-132-255,,,76-35-31-255" />
+    <property name="color.picker.is.hsb" value="false" />
+    <property name="update.existing.copyrights" value="false" />
+    <property name="DuplicatesForm.settings.splitterProportion" value="0.3" />
+    <property name="project.wizard.group" value="spring" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="last.used.gradle.home" value="/mnt/gradle" />
+    <property name="DuplicatesForm.settings.scrollToSource" value="true" />
+    <property name="JSHintOptionsTreeView.MAIN_DIVIDER_PROPORTION" value="0.7" />
+    <property name="JSHintOptionsTreeView.RIGHT_DIVIDER_PROPORTION" value="0.7" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20.0" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0.0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1.0" />
+  </component>
+</application>
+

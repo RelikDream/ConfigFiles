@@ -1,0 +1,78 @@
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore
+	autocrlf = input
+
+[color]
+	ui = auto
+
+[color "status"]
+	changed = yellow
+
+[color "diff"]
+	meta = yellow
+
+[alias]
+	h = help
+
+	co = checkout
+	cb = checkout -b
+	ci = commit
+	br = branch
+	rb = rebase
+	fe = fetch
+	ff = !git rb `git upstream`
+	fp = format-patch
+	cp = cherry-pick
+	di = diff
+	st = status
+	s  = status -s
+
+	ulog = !git log `git upstream`..
+	wtfchanged = log --stat --find-renames --pretty=format:\"%C(yellow)%h%C(cyan)%d%C(reset) (%ar - %C(red)%an%C(reset)) %n%B\"
+	hist = log --graph --date=short --pretty=format:\"%C(yellow)%h %C(green)%ad%C(reset) |%C(cyan)%d%C(reset) %s (%C(red)%an%C(reset))\"
+	uhist = !git hist `git upstream`..
+	sdiff = diff --staged
+	cdiff = diff --cached --find-renames
+	udiff = !git diff `git upstream`..
+	wdiff = diff --word-diff-regex='\\w+'
+	ignored = ls-files --others -i --exclude-standard --directory
+	full-tree = ls-tree --full-tree -r HEAD
+
+	addp = add -p
+	amend = commit --amend
+	undo = reset --hard
+	type = cat-file -t
+	dump = cat-file -p
+	todo = grep -Iw -ie todo -ie fixme -ie xxx
+	authors = !git log --all --format='%an <%ae>' | sort -u
+	aliases = !git config --get-regexp 'alias.*' | colrm 1 6 | sed 's/[ ]/ = /'
+	who = !git config --get 'user.email' | tail -n 1 | cut -d @ -f 2
+
+	upstream = rev-parse --abbrev-ref --symbolic-full-name @{u}
+	update = !git fe && git ff
+	rework = !git rb -i `git upstream`
+	start = !git init && git ci --allow-empty -m\"initial commit\"
+
+[diff]
+	mnemonicprefix = true
+
+[push]
+	default = upstream
+
+[pull]
+	rebase = true
+
+[rebase]
+	autosquash = true
+	autostash = true
+
+[rerere]
+	enabled = true
+
+[help]
+	autocorrect = 50
+
+[user]
+	name = RelikDream
+	email = thomas.bejuit@zenika.com
